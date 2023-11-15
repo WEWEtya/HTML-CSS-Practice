@@ -64,3 +64,23 @@ body {
 	font-size: 15px;
 	font-weight: 400;
 }
+
+.profile_card .media_buttons {
+	display: flex;
+	align-items: center;
+	margin-top: 15px;
+}
+
+.media_buttons .link {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 18px;
+	height: 34px;
+	width: 34px;
+	border-radius: 50%;
+	margin: 0 8px;
+	background-color: #4070f4;
+	text-decoration: none;
+}
